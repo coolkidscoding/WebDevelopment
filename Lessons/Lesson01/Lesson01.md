@@ -9,7 +9,7 @@
 ---
 </br>
 
-**What is HTML?**
+#### **What is HTML?**
 
 + HTML stands for Hyper Text Markup Language
 + HTML is the standard markup language for creating Web pages
@@ -385,4 +385,3 @@ This JavaScript example writes "Hello JavaScript!" into an HTML element with id=
     <script>
         document.getElementById("demo").innerHTML = "Hello JavaScript!";
     </script> 
-
