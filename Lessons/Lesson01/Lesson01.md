@@ -385,3 +385,7 @@ This JavaScript example writes "Hello JavaScript!" into an HTML element with id=
     <script>
         document.getElementById("demo").innerHTML = "Hello JavaScript!";
     </script> 
+
+---
+
+##### **Cool Kids Coding School 2022, for any questions or comments contact info@coolkidscodingschool.com**

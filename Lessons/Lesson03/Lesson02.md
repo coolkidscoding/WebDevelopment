@@ -107,4 +107,4 @@ The button element defines a clickable button.
 
 ---
 
-##### **Cool Kids Coding School 2022, for any questions or comments contact info@coolkidscodingschool.com**
+##### **Cool Kids Coding School 2022, for amy questions or comments contact info@coolkidscodingschool.com**
