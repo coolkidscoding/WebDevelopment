@@ -4,7 +4,7 @@
 
 ## Course: **Web Development**
 
-### Lesson 3: **Javascript**
+### Lesson 4: **Javascript**
 
 ---
 </br>
