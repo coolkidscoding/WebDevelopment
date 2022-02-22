@@ -4,7 +4,7 @@
 
 ## Course: **Web Development**
 
-### Lesson 6: **Weather App**
+### Project 1: **Weather App**
 
 ---
 </br>
